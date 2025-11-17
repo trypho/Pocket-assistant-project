@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Creating a personal assistant that will be vailable in your pocket",
+  "homepage": "https://github.com/trypho/Pocket-assistant-project#readme",
+  "bugs": {
+    "url": "https://github.com/trypho/Pocket-assistant-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trypho/Pocket-assistant-project.git"
+  },
+  "license": "ISC",
+  "author": "KGOBE MADIMETJA TRYPHO",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
